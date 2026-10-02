@@ -1,0 +1,10 @@
+{
+  "name": "Saad Tools",
+  "short_name": "SaadTools",
+  "description": "Business Management Tools",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary"
+}
